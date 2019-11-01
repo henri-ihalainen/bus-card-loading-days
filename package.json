@@ -1,0 +1,17 @@
+{
+  "name": "bus-card-loading-days",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "date-fns": "^2.6.0",
+    "ics": "^2.18.0"
+  }
+}
